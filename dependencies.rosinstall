@@ -1,0 +1,8 @@
+- git:
+    local-name: vrx_navigation
+    uri: https://github.com/OUXT-Polaris/vrx_navigation.git
+    version: master
+- git:
+    local-name: vrx_perception
+    uri: https://github.com/OUXT-Polaris/vrx_perception.git
+    version:  master
