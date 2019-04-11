@@ -61,5 +61,5 @@ vcs import < dependencies.rosinstall
 
 ```
 cd ~/vrx_ws
-colcon build
+catkin_make
 ```
