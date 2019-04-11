@@ -1,4 +1,5 @@
 !.gitignore
 !dependencies.rosinstall
 !README.md
+!build.sh
 *
