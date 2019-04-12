@@ -1,8 +1,27 @@
+# Planning
 - git:
-    local-name: rostate_machine
+    local-name: planning/rostate_machine
     uri: https://github.com/OUXT-Polaris/rostate_machine.git
     version:  master
+
+# Control
+- git:
+    local-name: control/vrx_control
+    uri: https://github.com/OUXT-Polaris/vrx_control.git
+    version:  master
+- git:
+    local-name: control/cog_publisher
+    uri: https://github.com/OUXT-Polaris/cog_publisher.git
+    version:  master
+
+# Bringup
+- git:
+    local-name: bringup/vrx_bringup
+    uri: https://github.com/OUXT-Polaris/vrx_bringup.git
+    version:  master
+
+# Simulation
 - hg:
-    local-name: vrx
+    local-name: simulation/vrx
     uri: https://bitbucket.org/osrf/vrx
     version:  master
