@@ -61,5 +61,6 @@ vcs import < dependencies.rosinstall
 
 ```
 cd ~/vrx_ws
+rosdep install -i -r -y --from-paths src --rosdistro melodic
 catkin_make
 ```
