@@ -1,12 +1,4 @@
 - git:
-    local-name: robotx_navigation
-    uri: https://github.com/OUXT-Polaris/robotx_navigation.git
-    version: master
-- git:
-    local-name: robotx_perception
-    uri: https://github.com/OUXT-Polaris/robotx_perception.git
-    version:  master
-- git:
     local-name: rostate_machine
     uri: https://github.com/OUXT-Polaris/rostate_machine.git
     version:  master
