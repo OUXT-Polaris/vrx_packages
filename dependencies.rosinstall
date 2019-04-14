@@ -19,7 +19,11 @@
     local-name: perception/geographic_conversion
     uri: https://github.com/OUXT-Polaris/geographic_conversion.git
     version:  master
-
+- git:
+    local-name: perception/twist_calculator
+    uri: https://github.com/OUXT-Polaris/twist_calculator.git
+    version:  master
+    
 # Bringup
 - git:
     local-name: bringup/vrx_bringup
