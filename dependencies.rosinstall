@@ -23,6 +23,10 @@
     local-name: perception/twist_calculator
     uri: https://github.com/OUXT-Polaris/twist_calculator.git
     version:  master
+- git:
+    local-name: perception/pf_localization
+    uri: https://github.com/OUXT-Polaris/pf_localization.git
+    version: master
     
 # Bringup
 - git:
