@@ -1,3 +1,9 @@
+# Math
+- git:
+    local-name: math/quaternion_operation
+    uri: https://github.com/OUXT-Polaris/quaternion_operation.git
+    version:  master
+
 # Planning
 - git:
     local-name: planning/rostate_machine
