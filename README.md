@@ -64,3 +64,7 @@ cd ~/vrx_ws
 rosdep install -i -r -y --from-paths src --rosdistro melodic
 catkin_make
 ```
+
+### Requirement
+cuda 10.0
+cudnn 7.0

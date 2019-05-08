@@ -8,4 +8,4 @@ GAZ=gazebo9
 sudo apt install cmake mercurial git  ruby libeigen3-dev ${GAZ} lib${GAZ}-dev pkg-config python ros-${DIST}-gazebo-plugins ros-${DIST}-gazebo-ros ros-${DIST}-hector-gazebo-plugins ros-${DIST}-joy ros-${DIST}-joy-teleop ros-${DIST}-robot-localization ros-${DIST}-ros-base ros-${DIST}-teleop-tools ros-${DIST}-teleop-twist-keyboard ros-${DIST}-velodyne-simulator ros-${DIST}-xacro
 vcs import < dependencies.rosinstall
 cd ../../
-rosdep install -i -r -y --from-paths src --rosdistro kinetic
+rosdep install -i -r -y --from-paths src --rosdistro ${DIST}
