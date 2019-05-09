@@ -49,10 +49,3 @@
     local-name: external/nnabla-ext-cuda
     uri: https://github.com/OUXT-Polaris/nnabla-ext-cuda.git
     version:  master
-    
-
-# Simulation
-- hg:
-    local-name: simulation/vrx
-    uri: https://bitbucket.org/osrf/vrx
-    version:  master
