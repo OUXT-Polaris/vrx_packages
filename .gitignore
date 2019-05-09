@@ -3,3 +3,4 @@
 !dependencies.rosinstall
 !README.md
 !*.sh
+!*.bash
