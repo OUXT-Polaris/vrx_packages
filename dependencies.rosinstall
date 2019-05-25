@@ -39,13 +39,3 @@
     local-name: bringup/vrx_bringup
     uri: https://github.com/OUXT-Polaris/vrx_bringup.git
     version:  master
-
-# External
-- git:
-    local-name: external/nnabla
-    uri: https://github.com/OUXT-Polaris/nnabla.git
-    version:  master
-- git:
-    local-name: external/nnabla-ext-cuda
-    uri: https://github.com/OUXT-Polaris/nnabla-ext-cuda.git
-    version:  master
