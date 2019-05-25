@@ -67,4 +67,4 @@ catkin_make
 
 ### Requirement
 cuda 10.0
-cudnn 7.0
+cudnn 7.5
