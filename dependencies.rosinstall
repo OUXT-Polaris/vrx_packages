@@ -3,6 +3,14 @@
     local-name: math/quaternion_operation
     uri: https://github.com/OUXT-Polaris/quaternion_operation.git
     version: master
+- git:
+    local-name: math/geometry_msgs_data_buffer
+    uri: https://github.com/OUXT-Polaris/geometry_msgs_data_buffer.git
+    version: master
+- git:
+    local-name: math/data_buffer
+    uri: https://github.com/OUXT-Polaris/data_buffer.git
+    version: master
 
 # Planning
 - git:
@@ -50,3 +58,8 @@
 - git:
     local-name: visualization/vision_msgs_visualization
     uri: git@github.com:OUXT-Polaris/vision_msgs_visualization.git
+
+# Simulation
+- git:
+    local-name: simulation/nmea_gps_plugin
+    uri: https://github.com/OUXT-Polaris/nmea_gps_plugin.git
