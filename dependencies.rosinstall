@@ -41,6 +41,10 @@
     local-name: perception/pf_localization
     uri: https://github.com/OUXT-Polaris/pf_localization.git
     version: master
+- git:
+    local-name: perception/nmea_to_geopose
+    uri: https://github.com/OUXT-Polaris/nmea_to_geopose.git
+    version: master
 
 # Message
 - git:
