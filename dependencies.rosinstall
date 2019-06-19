@@ -61,7 +61,12 @@
 # Visualization
 - git:
     local-name: visualization/vision_msgs_visualization
-    uri: git@github.com:OUXT-Polaris/vision_msgs_visualization.git
+    uri: https://github.com/OUXT-Polaris/vision_msgs_visualization.git
+
+# Tools
+- git:
+    local-name: tools/rosdebug_tools
+    uri: https://github.com/OUXT-Polaris/rosdebug_tools.git
 
 # Simulation
 - git:
