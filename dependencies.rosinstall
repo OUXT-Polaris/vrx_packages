@@ -61,6 +61,10 @@
     local-name: bringup/vrx_bringup
     uri: https://github.com/OUXT-Polaris/vrx_bringup.git
     version: master
+- git:
+    local-name: bringup/vrx_description
+    uri: https://github.com/OUXT-Polaris/vrx_description.git
+    version: master
 
 # Visualization
 - git:
@@ -71,6 +75,9 @@
 - git:
     local-name: tools/rosdebug_tools
     uri: https://github.com/OUXT-Polaris/rosdebug_tools.git
+- git:
+    local-name: tools/mqtt_bridge
+    https://github.com/OUXT-Polaris/mqtt_bridge.git
 
 # Simulation
 - git:
