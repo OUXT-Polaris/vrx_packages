@@ -27,6 +27,10 @@
     local-name: control/cog_publisher
     uri: https://github.com/OUXT-Polaris/cog_publisher.git
     version: master
+- git:
+    local-name: control/robotx_hardware_interface
+    uri: https://github.com/OUXT-Polaris/robotx_hardware_interface.git
+    version: master
 
 # Perception
 - git:
