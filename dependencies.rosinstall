@@ -31,6 +31,10 @@
     local-name: control/robotx_hardware_interface
     uri: https://github.com/OUXT-Polaris/robotx_hardware_interface.git
     version: master
+- git:
+    local-name: control/robotx_joy_control
+    uri: https://github.com/OUXT-Polaris/robotx_joy_control.git
+    version: master
 
 # Perception
 - git:
