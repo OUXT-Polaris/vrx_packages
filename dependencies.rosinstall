@@ -57,7 +57,11 @@
     local-name: perception/robotx_costmap_calculator
     uri: https://github.com/OUXT-Polaris/robotx_costmap_calculator.git
     version: master
-
+- git:
+    local-name: perception/darknet_ros
+    uri: https://github.com/OUXT-Polaris/darknet_ros.git
+    version: master
+    
 # Message
 - git:
     local-name: message/usv_navigation_msgs
