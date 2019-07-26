@@ -3,6 +3,7 @@
 ## Requirements
 Ubuntu : 18.04  
 ROS : Melodic  
+cmake : 3.15.0  
 
 ## how to setup
 ### install ROS melodic  
