@@ -68,8 +68,8 @@
     uri: https://github.com/OUXT-Polaris/usv_navigation_msgs.git
     version: master
 - git:
-    local-name: message/object_msgs
-    uri: https://github.com/OUXT-Polaris/object_msgs.git
+    local-name: message/vision_msgs
+    https://github.com/OUXT-Polaris/vision_msgs.git
     version: master
 
 # Bringup
@@ -86,6 +86,10 @@
 - git:
     local-name: visualization/rostate_machine_rviz_plugins
     uri: https://github.com/OUXT-Polaris/rostate_machine_rviz_plugins.git
+    version: master
+- git:
+    local-name: visualization/vision_msgs_visualization
+    https://github.com/OUXT-Polaris/vision_msgs_visualization.git
     version: master
 
 # Tools
