@@ -61,6 +61,10 @@
     local-name: perception/vision_darknet_detect
     uri: https://github.com/OUXT-Polaris/vision_darknet_detect.git
     version: master
+- git:
+    local-name: perception/vision_info_server
+    uri: https://github.com/OUXT-Polaris/vision_info_server.git
+    version: master
 
 # Message
 - git:
@@ -108,6 +112,10 @@
 - git:
     local-name: tools/object_rect_image_saver
     uri: https://github.com/OUXT-Polaris/object_rect_image_saver.git
+    version: master
+- git:
+    local-name: tools/jsk_to_vision_msgs
+    uri: https://github.com/OUXT-Polaris/jsk_to_vision_msgs.git
     version: master
 
 #- git:
