@@ -21,6 +21,10 @@
     local-name: planning/rostate_machine
     uri: https://github.com/OUXT-Polaris/rostate_machine.git
     version: master
+- git:
+    local-name: planning/linear_interpolation_planner
+    uri: https://github.com/OUXT-Polaris/linear_interpolation_planner.git
+    version: master
 
 # Control
 - git:
