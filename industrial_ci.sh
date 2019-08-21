@@ -1,0 +1,1 @@
+rosrun industrial_ci run_ci ROS_DISTRO="melodic" ROS_REPO=ros-shadow-fixed ROSINSTALL_FILENAME=dependencies.rosinstall

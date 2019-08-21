@@ -121,6 +121,10 @@
     local-name: tools/jsk_to_vision_msgs
     uri: https://github.com/OUXT-Polaris/jsk_to_vision_msgs.git
     version: master
+- git:
+    local-name: tools/industrial_ci
+    uri: https://github.com/ros-industrial/industrial_ci.git
+    version: master
 
 #- git:
 #    local-name: tools/ros_openvino_toolkit
