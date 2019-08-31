@@ -32,8 +32,8 @@
 
 # Control
 - git:
-    local-name: control/vrx_control
-    uri: https://github.com/OUXT-Polaris/vrx_control.git
+    local-name: control/velocity_controller
+    uri: https://github.com/OUXT-Polaris/velocity_controller.git
     version: master
 - git:
     local-name: control/cog_publisher
