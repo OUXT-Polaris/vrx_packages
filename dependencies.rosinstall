@@ -39,6 +39,10 @@
     local-name: control/robotx_joy_control
     uri: https://github.com/OUXT-Polaris/robotx_joy_control.git
     version: master
+- git:
+    local-name: control/control_command_selector
+    uri: https://github.com/OUXT-Polaris/control_command_selector.git
+    version: master
 
 # Perception
 - git:
