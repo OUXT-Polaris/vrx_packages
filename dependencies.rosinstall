@@ -81,6 +81,10 @@
     local-name: perception/vision_info_server
     uri: https://github.com/OUXT-Polaris/vision_info_server.git
     version: master
+- git:
+    local-name: perception/velocity_smoother
+    uri: https://github.com/OUXT-Polaris/velocity_smoother.git
+    version: master
 
 # Message
 - git:
