@@ -29,6 +29,14 @@
     local-name: planning/dwa_planner
     uri: https://github.com/OUXT-Polaris/dwa_planner.git
     version: master
+- git:
+    local-name: planning/robotx_task_planner
+    uri: https://github.com/OUXT-Polaris/robotx_task_planner.git
+    version: master
+- git:
+    local-name: planning/waypoint_server
+    uri: https://github.com/OUXT-Polaris/waypoint_server.git
+    version: master
 
 # Control
 - git:
