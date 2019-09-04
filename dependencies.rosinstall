@@ -134,10 +134,6 @@
     uri: https://github.com/OUXT-Polaris/rosdebug_tools.git
     version: master
 - git:
-    local-name: tools/mqtt_bridge
-    uri: https://github.com/OUXT-Polaris/mqtt_bridge.git
-    version: master
-- git:
     local-name: tools/object_rect_image_saver
     uri: https://github.com/OUXT-Polaris/object_rect_image_saver.git
     version: master
