@@ -97,6 +97,10 @@
     local-name: perception/cluster_image_fusion
     uri: https://github.com/OUXT-Polaris/cluster_image_fusion.git
     version: master
+- git:
+    local-name: perception/detection_merger
+    uri: https://github.com/OUXT-Polaris/detection_merger.git
+    version: master
 
 # Message
 - git:
