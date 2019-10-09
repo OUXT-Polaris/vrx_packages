@@ -102,10 +102,6 @@
     uri: https://github.com/OUXT-Polaris/detection_merger.git
     version: master
 - git:
-    local-name: perception/jsk_bbox_to_rect
-    uri: https://github.com/OUXT-Polaris/jsk_bbox_to_rect.git
-    version: master
--git:
     local-name: perception/odom_frame_publisher
     uri: https://github.com/OUXT-Polaris/odom_frame_publisher.git
     version: master
@@ -160,6 +156,14 @@
 - git:
     local-name: tools/industrial_ci
     uri: https://github.com/ros-industrial/industrial_ci.git
+    version: master
+- git:
+    local-name: tools/ros_system_monitor
+    uri: https://github.com/OUXT-Polaris/ros-system-monitor.git
+    version: master
+- git:
+    local-name: tools/mqtt_bridge
+    uri: https://github.com/OUXT-Polaris/mqtt_bridge.git
     version: master
 
 #- git:
