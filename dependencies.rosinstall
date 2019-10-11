@@ -30,10 +30,6 @@
     uri: https://github.com/OUXT-Polaris/dwa_planner.git
     version: master
 - git:
-    local-name: planning/robotx_task_planner
-    uri: https://github.com/OUXT-Polaris/robotx_task_planner.git
-    version: master
-- git:
     local-name: planning/waypoint_server
     uri: https://github.com/OUXT-Polaris/waypoint_server.git
     version: master
@@ -80,10 +76,6 @@
 - git:
     local-name: perception/robotx_costmap_calculator
     uri: https://github.com/OUXT-Polaris/robotx_costmap_calculator.git
-    version: master
-- git:
-    local-name: perception/vision_darknet_detect
-    uri: https://github.com/OUXT-Polaris/vision_darknet_detect.git
     version: master
 - git:
     local-name: perception/vision_info_server
